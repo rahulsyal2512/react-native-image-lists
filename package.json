@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "@react-native-community/cameraroll": "^4.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "react": "16.13.1",
     "react-native": "0.63.0",
     "rn-fetch-blob": "^0.12.0",
